@@ -43,9 +43,4 @@ Fullstack developer with a strong analytical background and a passion for creati
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Liska-iriska&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liska-iriska&layout=compact&theme=dark" alt="Top Languages" height="180px"/>
-</p>
